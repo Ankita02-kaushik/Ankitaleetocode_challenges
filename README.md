@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankita02-kaushik/Ankitaleetocode_challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ankita02-kaushik/Ankitaleetocode_challenges/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/Ankita02-kaushik/Ankitaleetocode_challenges/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankita02-kaushik/Ankitaleetocode_challenges/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Ankita02-kaushik/Ankitaleetocode_challenges/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
